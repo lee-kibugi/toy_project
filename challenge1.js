@@ -1,4 +1,4 @@
-let mark = prompt("enter mark between 0 and 100")
+let mark = prompt("enter mark between 0 and 100");
 if (mark > 0 && mark < 100){
 
         if(mark > 79){
