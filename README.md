@@ -1,12 +1,12 @@
-## Week 1 Toy problems Prerequisites
+# Week 1 Toy problems Prerequisites
 
-# Description
+## Description
 Challenges testing on decision making( if/ switch )
 
-# SET UP
+## SET UP
 Each file in the repository represents a solution to the challenges asked.
 
-# TO RUN CHallenges
+## TO RUN CHallenges
 For challenge 1 :
 ```python
 node challenge1.js
@@ -23,7 +23,7 @@ node challenge3.js
 ```
 
 ## AUTHOR
-# LINDA WANJIKU
+ LINDA WANJIKU
 
-# LICENSE
+## LICENSE
 [MIT](https://choosealicense.com/licenses/mit)
